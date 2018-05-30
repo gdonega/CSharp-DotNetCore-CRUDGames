@@ -1,0 +1,35 @@
+﻿@page "{id:int}"
+@model gamecrud.Pages.UpdateGameModel
+@{
+    ViewData["Title"] = "UpdateGame";
+}
+
+
+<h2>
+    Edit Game - @Model.Game.Id
+</h2>
+
+<form method="post">
+    <div>
+        <div asp-validation-summary="All"></div>
+        <input asp-for="Game.Id" hidden />
+
+        <label asp-for="Game.Name"></label>
+        <div>
+            <input asp-for="Game.Name" />
+            <span asp-validation-for="Game.Name"></span>
+        </div>
+        
+        
+        <label asp-for="Game.Developer"></label>
+        <div>
+            <input asp-for="Game.Developer" />
+            <span asp-validation-for="Game.Developer"></span>
+        </div>
+    </div>
+    <div>
+        <button type="submit">Save</button>
+    </div>
+</form>
+
+

@@ -1,0 +1,11 @@
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\bin\Debug\netcoreapp2.0\gamecrud.deps.json
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\bin\Debug\netcoreapp2.0\gamecrud.runtimeconfig.json
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\bin\Debug\netcoreapp2.0\gamecrud.runtimeconfig.dev.json
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\bin\Debug\netcoreapp2.0\gamecrud.dll
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\bin\Debug\netcoreapp2.0\gamecrud.pdb
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.csproj.CoreCompileInputs.cache
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.AssemblyInfoInputs.cache
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.AssemblyInfo.cs
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.dll
+C:\Users\gustavo\Desktop\dotnet-crud-games\gamecrud\gamecrud\obj\Debug\netcoreapp2.0\gamecrud.pdb

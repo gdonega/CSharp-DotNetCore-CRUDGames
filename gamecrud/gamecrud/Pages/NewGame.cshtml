@@ -1,0 +1,26 @@
+﻿@page
+@model gamecrud.Pages.NewGameModel
+@{
+    ViewData["Title"] = "NewGame";
+}
+
+<h2>New Game</h2>
+
+<form method="post">
+
+    <div>
+        <div asp-validation-summary="All" ></div>
+        <div>
+            Name:<input asp-for="Game.Name" />
+            <span asp-validation-for="Game.Name"></span>
+        </div>
+        <div>
+            Developer:<input asp-for="Game.Developer" />
+            <span asp-validation-for="Game.Developer"></span>
+        </div>
+        <button type="submit">Save the game</button>
+    </div>
+
+
+
+</form>
