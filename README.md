@@ -1,2 +1,2 @@
-# dotnet-crud-games
+# CSharp-DotNetCore-CRUDGames
 Base CRUD - C# - dotnet 
